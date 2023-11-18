@@ -31,8 +31,4 @@ The Executive Summary presentation offers a high-level overview of the Adventure
 
 Feel free to reach out for any additional information or clarification.
 
-## Acknowledgments
-
-Special thanks to Esra Becker for creating and sharing the Tableau dashboard and presentations.
-
 

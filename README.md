@@ -3,7 +3,7 @@
 ## Task
 
 You work as a data analyst at “AdwentureWorks'' company. You are asked to provide 1 dashboard or spreadsheet which you will then use for 2 presentations for each of the departments. If you wish, you can have 2 slightly modified versions of 
-the dashboard / spreadsheet to better suit each of the two presentations.
+the dashboard/spreadsheet to better suit each of the two presentations.
 
 Please choose one task from the following combinations:
 1.Executive Leadership and Finance

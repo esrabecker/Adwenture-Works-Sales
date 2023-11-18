@@ -13,5 +13,5 @@ Please choose one task from the following combinations:
 
 SQL Codes and CSV Files: https://docs.google.com/spreadsheets/d/1W0Ehs_ouELIRVAfCDyn1AVZsHfwONUOqfY6zUMhwxQA/edit#gid=0 
 Tableau Dashboard: https://public.tableau.com/app/profile/esra.becker/viz/AdventureWorksSalesExecutive/Dashboard2
-Sales Department Presentation: https://docs.google.com/presentation/d/1WVibDRJl8nh0t9HcqKZ45_U67WlAp7gS/edit?pli=1#slide=id.p1
-Executive Summary Presentation: https://docs.google.com/presentation/d/1I4u52XRpk9uC5zX4oyxk0TWirf7qel7z/edit#slide=id.p1
+                          Sales Department Presentation: https://docs.google.com/presentation/d/1WVibDRJl8nh0t9HcqKZ45_U67WlAp7gS/edit?pli=1#slide=id.p1
+                              Executive Summary Presentation: https://docs.google.com/presentation/d/1I4u52XRpk9uC5zX4oyxk0TWirf7qel7z/edit#slide=id.p1
